@@ -54,13 +54,13 @@ const pagenation = (current_page, max_page) => {
 
 const heredoc = () => {
   /*
-  pagenation(1, 1, PAGE_LENGTH)
-  pagenation(1, 2, PAGE_LENGTH)
-  pagenation(1, 9, PAGE_LENGTH)
-  pagenation(3, 10, PAGE_LENGTH)
-  pagenation(3, 20, PAGE_LENGTH)
-  pagenation(20, 20, PAGE_LENGTH)
-  pagenation(10, 20, PAGE_LENGTH)
+  pagenation(1, 1)
+  pagenation(1, 2)
+  pagenation(1, 9)
+  pagenation(3, 10)
+  pagenation(3, 20)
+  pagenation(20, 20)
+  pagenation(10, 20)
   */
 };
 
